@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: uisdata
+Version: 0.1
+Summary: UIS data select, metadata and label merge
+Home-page: UNKNOWN
+Author: UIS_DAO
+Author-email: m.murphy@unesco.org
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: license
+
+===================
+uisdata Module
+===================
+
+**Contains functions to select multiple indicators, merge their labels and metadata. It is also a useful way to understand the data structure of the UIS datasets**
+
+XXXX ADD details XXXXXX
+
